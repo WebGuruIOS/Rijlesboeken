@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background_1258-66609 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
